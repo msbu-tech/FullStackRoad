@@ -1,0 +1,21 @@
+html {
+  width: 100%;
+}
+body {
+  width: 100%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Helvetica Neue", Helvetica, Arial;
+  -webkit-font-smoothing: antialiased;
+}
+.logo {
+  margin-top: 10%;
+  width: 100%;
+  text-align: center;
+}
+.slogan {
+  font-size: 48px;
+  color: black;
+  margin-top: 5%;
+}
